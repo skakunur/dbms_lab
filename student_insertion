@@ -1,1 +1,1 @@
-insert into student values('Tanvi',17);
+insert into student values('&sname',&sno);
