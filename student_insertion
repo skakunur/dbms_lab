@@ -1,1 +1,1 @@
-insert into student values("chandu",24);
+insert into student values('chandu1',25);
